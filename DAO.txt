@@ -1,0 +1,24 @@
+# Data Access Object pattern
+solve
+- repetition
+- data source abstraction
+- provides a database abstraction layer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# sources
+1. https://developpaper.com/principle-and-usage-of-data-access-object-pattern-dao-in-php-design-pattern/
